@@ -1,0 +1,10 @@
+body {
+  padding: 5rem;
+}
+.like-button {
+  color: grey;
+  padding: 1rem;
+}
+.liked {
+  color: blue;
+}
